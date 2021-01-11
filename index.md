@@ -55,7 +55,7 @@ use for their professional work). No participant can impersonate another person.
 
 * Zoom.
 * Zulip: for setting up a channel where we can talk about deniability and
-  chatting with other participants. The address is [https://deniability.zulipchat.com/login/](https://deniability.zulipchat.com/login/).
+  chatting with other participants. The address is [https://deniability.zulipchat.com/register/](https://deniability.zulipchat.com/register/).
 
 
 ## Who This Event is Not For
