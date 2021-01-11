@@ -43,7 +43,6 @@ We have no idea how much demand there will be, so get in touch with us, if you
 want to participate (please, ping Sofía over twitter or email -her contact can
 be found [here](https://claucece.github.io/contact/)-).
 
-
 Participation is free; but you must read and abide by the [SNAPL Friendly Environment Policy](https://snapl.org/2015/policy.html).
 
 We require that every participant represent themselves by the name that they
@@ -56,7 +55,8 @@ use for their professional work). No participant can impersonate another person.
 
 * Zoom.
 * Zulip: for setting up a channel where we can talk about deniability and
-  chatting with other participants.
+  chatting with other participants. The address is [https://deniability.zulipchat.com/login/](https://deniability.zulipchat.com/login/).
+
 
 ## Who This Event is Not For
 
