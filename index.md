@@ -20,9 +20,12 @@ organized by Steven Galbraith.
 
 # Information
 
-The event will be entirely virtual, over Zoom.
+The event will happen on Thursday, 14th of January, 2021, at 16.00
+CET (10.00 EST), just prior to the day's agenda of RWC2021.
 
-The meeting will happen for at least 30 min but can go for as long as wanted.
+The event will be entirely virtual, over Zoom. The zoom link will be posted here.
+
+The meeting will happen for an hour.
 
 ## Schedule
 
