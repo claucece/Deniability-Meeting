@@ -23,7 +23,9 @@ organized by Steven Galbraith.
 The event will happen on Thursday, 14th of January, 2021, at 16.00
 CET (10.00 EST), just prior to the day's agenda of RWC2021.
 
-The event will be entirely virtual, over Zoom and Zulip. The zoom link is:
+The event will be entirely virtual, over Zoom and Zulip.
+
+The zoom link is:
 
 [https://us02web.zoom.us/j/85833808122?pwd=WkNhOGJiS0lXWXpBTlZ5eXdya1Fwdz09](https://us02web.zoom.us/j/85833808122?pwd=WkNhOGJiS0lXWXpBTlZ5eXdya1Fwdz09)
 
@@ -45,6 +47,10 @@ Meeting ID: 858 3380 8122
 Passcode: 371064
 Find your local number: https://us02web.zoom.us/u/kdcR3oPoaB
 ```
+
+The zulip link is:
+
+[https://deniability.zulipchat.com/register/](https://deniability.zulipchat.com/register/)
 
 The meeting will happen for an hour.
 
@@ -74,7 +80,7 @@ use for their professional work). No participant can impersonate another person.
 
 ## What we will use
 
-* Zoom.
+* Zoom. The link is: [https://us02web.zoom.us/j/85833808122?pwd=WkNhOGJiS0lXWXpBTlZ5eXdya1Fwdz09](https://us02web.zoom.us/j/85833808122?pwd=WkNhOGJiS0lXWXpBTlZ5eXdya1Fwdz09), with the passcode: `371064`.
 * Zulip: for setting up a channel where we can talk about deniability and
   chatting with other participants. The address is [https://deniability.zulipchat.com/register/](https://deniability.zulipchat.com/register/).
 
