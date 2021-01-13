@@ -23,7 +23,28 @@ organized by Steven Galbraith.
 The event will happen on Thursday, 14th of January, 2021, at 16.00
 CET (10.00 EST), just prior to the day's agenda of RWC2021.
 
-The event will be entirely virtual, over Zoom. The zoom link will be posted here.
+The event will be entirely virtual, over Zoom and Zulip. The zoom link is:
+
+[https://us02web.zoom.us/j/85833808122?pwd=WkNhOGJiS0lXWXpBTlZ5eXdya1Fwdz09](https://us02web.zoom.us/j/85833808122?pwd=WkNhOGJiS0lXWXpBTlZ5eXdya1Fwdz09)
+
+```
+Meeting ID: 858 3380 8122
+Passcode: 371064
+One tap mobile
++12532158782,,85833808122#,,,,*371064# US (Tacoma)
++13017158592,,85833808122#,,,,*371064# US (Washington D.C)
+
+Dial by your location
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Washington D.C)
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 6833 US (San Jose)
+        +1 929 205 6099 US (New York)
+Meeting ID: 858 3380 8122
+Passcode: 371064
+Find your local number: https://us02web.zoom.us/u/kdcR3oPoaB
+```
 
 The meeting will happen for an hour.
 
